@@ -18,6 +18,8 @@ Design:** CSS Grid e Flexbox.
 | Projeto | Descrição | Tecnologias | Link |
 
 [Pokemon (Pikachu)] | Jogo interativo simples para praticar manipulação de DOM. | HTML, CSS, JavaScript | [Acesse aqui](https://lucianogomeskt.github.io/Pikachu/) |
+
+
 [Agenda de Contatos] | API RESTful simples para CRUD de contatos. | Node.js, Prisma, MongoDB | [Acesse aqui](https://lucianogomeskt.github.io/Agenda_de_Contatos/) |
 
 
