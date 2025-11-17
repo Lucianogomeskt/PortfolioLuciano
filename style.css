@@ -163,7 +163,7 @@ h1 {
 .projetos-imagem {
     height: 200px;
     width: 100%;
-    object-fit: cover; 
+    object-fit: contain; 
 }
 
 .info-projetos {
@@ -247,9 +247,6 @@ h1 {
         transform: translateY(-20px);
     }
 }
-
-
-
 
 @media (max-width: 768px) {
     
